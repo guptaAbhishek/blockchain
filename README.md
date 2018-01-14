@@ -1,17 +1,51 @@
 # Javascript Zero to Developing Blockchain Technology 
 https://codeforstartups.com/javascript-zero-to-hero
 
-# Javascript Tutorial 
+<code>Download PPT </code>
+https://codeforstartups.com/download-ppt-javascript-zero-to-hero.ppt
+
+<code>Download PDF</code>
+https://codeforstartups.com/download-pdf-javascript-zero-to-hero.pdf
+
+<code>View/Download Video</code>
+https://codeforstartups.com/youtube-video-javascript-zero-to-hero
+
+# Javascript Tutorial
 https://codeforstartups.com/javascript-tutorial
+
+<code>Download PPT </code>
+https://codeforstartups.com/download-ppt-javascript-tutorial.ppt
+
+<code>Download PDF</code>
+https://codeforstartups.com/download-pdf-javascript-tutorial.pdf
+
+<code>View/Download Video</code>
+https://codeforstartups.com/youtube-video-javascript-tutorial
 
 # Data Structure and Algorithms Intro for Blockchain Technology 
 https://codeforstartups.com/datastructure-and-algorithms-introduction
+<code>Download PPT </code>
+https://codeforstartups.com/download-ppt-datastructure-and-algorithms-introduction.ppt
+
+<code>Download PDF</code>
+https://codeforstartups.com/download-pdf-datastructure-and-algorithms-introduction.pdf
+
+<code>View/Download Video</code>
+https://codeforstartups.com/youtube-video-datastructure-and-algorithms-introduction
 
 # What is Cryptocurrency 
-https://codeforstartups.com/crytpocurrency
+https://codeforstartups.com/what-is-crytpocurrency
+<code>Download PPT </code>
+https://codeforstartups.com/download-ppt-what-is-crytpocurrency.ppt
+
+<code>Download PDF</code>
+https://codeforstartups.com/download-pdf-what-is-crytpocurrency.pdf
+
+<code>View/Download Video</code>
+https://codeforstartups.com/youtube-video-what-is-crytpocurrency
 
 # What is Blockchain 
-https://codeforstartups.com/blockchain
+https://codeforstartups.com/what-is-blockchain
 
 # Learning Python 
 https://codeforstartups.com/learning-python
@@ -25,7 +59,7 @@ https://codeforstartups.com/scrapping-bitcoin-wiki
 # Building Search Engine with Bitcoin wiki Data 
 https://codeforstartups.com/building-search-engine-wiki-data
 
-# Building Simple User Interface for Our Web App 
+# Building Simple User Interface for Blockchain with Javascript Peer to peer payment system Web App
 https://codeforstartups.com/blockchain-tutorial-simple-web-interface
 
 # What is Peer to Peer Payments 
@@ -40,7 +74,7 @@ https://www.npmjs.com/package/bitcoin-transaction
 
 # https://medium.com/@gcwelborn/crafting-a-blockchain-transaction-with-javascript-3946bda1df7b
 
-# https://github.com/bitcoinjs/bitcoinjs-lib
+https://github.com/bitcoinjs/bitcoinjs-lib
 
 # The Testnet
 https://codeforstartups.com/what-is-testnet
@@ -92,6 +126,12 @@ If we wanted to regain access to the wallet we just created, we can utilize the 
 
 <code>
 let privKey = 'cTEAh2DsC7KE4mzY5YFTYommzr7czbdiBfLPsXZrF6o3zSQLLw9Q'
+
 let ourWallet = new Btc.ECPair.fromWIF(privKey, TestNet)
+
 console.log("ourWallet public key:", ourWallet.getAddress())
+
+*  *  *  *  *
+
+$ ourWallet public key: mqVKYrNJcMkdK2QHFNEd1P6Qfc1Sqs3hu1
 </code>
