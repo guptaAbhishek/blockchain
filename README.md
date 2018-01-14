@@ -1,27 +1,41 @@
 # Javascript Zero to Developing Blockchain Technology 
+https://codeforstartups.com/javascript-zero-to-hero
 
 # Javascript Tutorial 
+https://codeforstartups.com/javascript-tutorial
 
 # Data Structure and Algorithms Intro for Blockchain Technology 
+https://codeforstartups.com/datastructure-and-algorithms-introduction
 
 # What is Cryptocurrency 
+https://codeforstartups.com/crytpocurrency
 
 # What is Blockchain 
+https://codeforstartups.com/blockchain
 
 # Learning Python 
+https://codeforstartups.com/learning-python
 
-# Learning Scrappy 
+# Learning Scrapy 
+https://codeforstartups.com/learning-scrapy
 
 # Scraping BitcoinWiki 
+https://codeforstartups.com/scrapping-bitcoin-wiki
 
 # Building Search Engine with Bitcoin wiki Data 
+https://codeforstartups.com/building-search-engine-wiki-data
 
 # Building Simple User Interface for Our Web App 
+https://codeforstartups.com/blockchain-tutorial-simple-web-interface
 
+# What is Peer to Peer Payments 
+https://codeforstartups.com/what-is-peer-to-peer-network-and-payment-system
 Peer to peer payments 
 e.g. Salaries , Transction or Cyrptocurrencies 
 
 # Bitcoin Transaction 
+https://codeforstartups.com/what-is-bitcoin-transaction
+
 https://www.npmjs.com/package/bitcoin-transaction
 
 # https://medium.com/@gcwelborn/crafting-a-blockchain-transaction-with-javascript-3946bda1df7b
@@ -29,6 +43,7 @@ https://www.npmjs.com/package/bitcoin-transaction
 # https://github.com/bitcoinjs/bitcoinjs-lib
 
 # The Testnet
+https://codeforstartups.com/what-is-testnet
 
 For demonstration purposes, we’ll be setting our network to testnet. If you want to disregard the following and use real bitcoin, well, that’s an unnecessary risk to take. The bitcoin wiki summarizes it well:
 
