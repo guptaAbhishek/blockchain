@@ -1,0 +1,22 @@
+{
+  "name": "blockchaindevelopementwithjavascript",
+  "version": "0.0.1",
+  "description": "developing javascript based blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "blockchain",
+    "bitcoin",
+    "cryptocurrency",
+    "javascript"
+  ],
+  "author": "Abhishek Kumar Gupata",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoin-transaction": "^1.1.0",
+    "express": "^4.16.2"
+  }
+}
