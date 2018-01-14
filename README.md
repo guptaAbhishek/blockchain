@@ -1,3 +1,26 @@
+# Javascript Zero to Developing Blockchain Technology 
+
+# Javascript Tutorial 
+
+# Data Structure and Algorithms Intro for Blockchain Technology 
+
+# What is Cryptocurrency 
+
+# What is Blockchain 
+
+# Learning Python 
+
+# Learning Scrappy 
+
+# Scraping BitcoinWiki 
+
+# Building Search Engine with Bitcoin wiki Data 
+
+# Building Simple User Interface for Our Web App 
+
+Peer to peer payments 
+e.g. Salaries , Transction or Cyrptocurrencies 
+
 # Bitcoin Transaction 
 https://www.npmjs.com/package/bitcoin-transaction
 
